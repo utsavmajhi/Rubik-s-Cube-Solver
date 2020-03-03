@@ -52,35 +52,35 @@ public class ledControl extends AppCompatActivity {
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick (View v) {
-                sendSignal("1");
+                sendSignal("R");
             }
         });
 
         btn2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick (View v) {
-                sendSignal("2");
+                sendSignal("r");
             }
         });
 
         btn3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick (View v) {
-                sendSignal("3");
+                sendSignal("W");
             }
         });
 
         btn4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick (View v) {
-                sendSignal("4");
+                sendSignal("w");
             }
         });
 
         btn5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick (View v) {
-                sendSignal("5");
+                sendSignal("S");
             }
         });
 
