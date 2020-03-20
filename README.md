@@ -1,8 +1,9 @@
-# Android App HC05 Arduino
+# Rubik's Cube Solver 
 
 ### - Introduction
 
-Arduino is a computer hardware and software company, project, and user community that designs and manufactures microcontroller kits for building digital devices and interactive objects that can sense and control objects in the physical world. [1]
+Made a Rubik's Cube Solver using nema motors ,arduino and Android application to deliver commands. We fabricated a frame in Solidworks to hold the nema motors and Rubik's Cube at the center.Basically for all possible movements we are using 6 motors.
+[1]
 
 ![Arduino](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg)
 
@@ -12,9 +13,6 @@ HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,des
 
 ### - About This Application
 
-This Android Application lets you connect to HC-05 module via Bluetooth and hence lets you send signals to Arduino so that it can perform desired operations successfully. The Application sends 5 signals (numbers 1 to 5) that are used to prepare a sandwich deal accordingly. Example Combo 1 is Mayoneese, Mustard, Chicken etc.
-
-The code is pretty simple and can be ammended for desired applications.
 
 ### - Screenshots
 
