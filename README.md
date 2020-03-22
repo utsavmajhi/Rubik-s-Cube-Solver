@@ -15,7 +15,7 @@ HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,des
 - Used F2L algo to solve the cube.
 
 ### Short Video
-<img src="https://github.com/utsavmajhi/Rubik-s-Cube-Solver/blob/master/temp/rubik.gif" width="600" height="600" title="" alt=""></a>
+<img src="https://github.com/utsavmajhi/Rubik-s-Cube-Solver/blob/master/temp/rubik.gif" width="600" height="400" title="" alt=""></a>
 
 ### - Screenshots
 
