@@ -2,7 +2,7 @@
 
 ### - Introduction
 
-Made a Rubik's Cube Solver using nema motors ,arduino and Android application to deliver commands. We fabricated a frame in Solidworks to hold the nema motors and Rubik's Cube at the center.Basically for all possible movements we are using 6 motors.
+Made a Rubik's Cube Solver using nema motors ,arduino and Android application to deliver commands using Bluetooth module. We fabricated a frame in Solidworks to hold the nema motors and Rubik's Cube at the center.Basically for all possible movements we are using 6 motors.
 [1]
 
 ![Arduino](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg)
@@ -11,7 +11,11 @@ HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,des
 
 ![HC05](https://wiki.eprolabs.com/images/thumb/3/38/HC-05.jpg/250px-HC-05.jpg)
 
-### - About This Application
+### Algorithm To Solve Cube
+-
+
+### -About Android Application
+
 
 
 ### - Screenshots
@@ -24,11 +28,3 @@ HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,des
 
 ![DeviceComm](http://i.imgur.com/8EGkfox.png)
 
-- Serial Monitor for Arduino IDE
-
-![ArduinoIDE](http://i.imgur.com/x35z1XP.png)
-
-### - Reference
-
-- [1] - [Wikipedia - Arduino](https://en.wikipedia.org/wiki/Arduino)
-- [2] - [Wikipedia - HC 05](https://wiki.eprolabs.com/index.php?title=Bluetooth_Module_HC-05)
