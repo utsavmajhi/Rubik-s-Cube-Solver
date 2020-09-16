@@ -27,4 +27,4 @@ HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,des
 
 | <a href="https://github.com/pranshukapri" target="_blank">**Pranshu Kapri**</a> | <a href="https://github.com/utsavmajhi" target="_blank">**Utsav Majhi**</a> | 
 | :---: |:---:|
-| [![Pranshu Kapri](https://avatars0.githubusercontent.com/u/43858941?s=400&u=ca9052a6a7bae20808e853a7d7bc28568a818fd3&v=4 ==250x250)](https://github.com/pranshukapri)    | [![Utsav Majhi](https://avatars1.githubusercontent.com/u/43748319?s=200&u=ac58aeeb7a30b09265baac08d6ef78aab4887aae&v=4)](https://github.com/utsavmajhi) |
+| [![Pranshu Kapri](https://avatars0.githubusercontent.com/u/43858941?s=400&u=ca9052a6a7bae20808e853a7d7bc28568a818fd3&v=4 =250x250)](https://github.com/pranshukapri)    | [![Utsav Majhi](https://avatars1.githubusercontent.com/u/43748319?s=200&u=ac58aeeb7a30b09265baac08d6ef78aab4887aae&v=4)](https://github.com/utsavmajhi) |
