@@ -11,7 +11,7 @@ int S6 = 2;
 int dir = 8; // Direction pin for all steppers at one pin=8
 int i = 0, j = 0,k = 0;
 int tot_moves = 0;
-char input[100],out[300];
+char input[200],out[350];
 
 /*
   Stepper Motor Configurations -
@@ -84,13 +84,6 @@ void loop() {
                    input[j]='\0';
                    j--;
                  }
-                 /*
-                 for(k=0;k<tot_moves;k++)
-                 {
-                   Serial.print(out[k]);
-                   Serial.println(k);
-                 }
-                 */
                  break;
       default : j--; break;
     }
@@ -339,6 +332,6 @@ void solve()
       case 'D' : move_D();  break;
       case 'd' : move_d();  break;
     }
-    delay(50);
+    delay(100);
   }
 }
